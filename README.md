@@ -27,8 +27,7 @@ It's an open source platform offering an application architecture and a set of t
 You can extend it as you want. 
 
 ## Manual
-Go to [Quick start guide](https://ssilviogit.github.io/test/manual/docs/).
-Go to <a href="https://ssilviogit.github.io/test/manual/docs/" target="_blank">Documentation pages</a>.
+Go to <a href="https://ssilviogit.github.io/test/manual/docs/manual.html" target="_blank">Documentation pages</a>.
 
 ## License
 License [Aapache-2.0](http://www.apache.org/licenses/LICENSE-2.0).
