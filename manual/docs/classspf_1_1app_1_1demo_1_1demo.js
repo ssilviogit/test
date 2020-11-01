@@ -1,0 +1,25 @@
+var classspf_1_1app_1_1demo_1_1demo =
+[
+    [ "__clone", "classspf_1_1app_1_1demo_1_1demo.html#a7e2471c87a7a02feb0a7e048d76fae3d", null ],
+    [ "__construct", "classspf_1_1app_1_1demo_1_1demo.html#a145b14f08d0aa2aec2c085bacd40c78c", null ],
+    [ "__wakeup", "classspf_1_1app_1_1demo_1_1demo.html#ae98986d55a6f446202c7144697fc5ed0", null ],
+    [ "getApplication", "classspf_1_1app_1_1demo_1_1demo.html#aa6e0c3cc2b5155d320312819b1dd4ea4", null ],
+    [ "getApplicationRoot", "classspf_1_1app_1_1demo_1_1demo.html#a08b253825470fa3f37e322fe3c1fcb96", null ],
+    [ "getId", "classspf_1_1app_1_1demo_1_1demo.html#a890c91afddd4f7ecf446033c6dd21b10", null ],
+    [ "getInstance", "classspf_1_1app_1_1demo_1_1demo.html#af8afeba74ff692be9c7042e3fd3046ab", null ],
+    [ "getModel", "classspf_1_1app_1_1demo_1_1demo.html#a65617fb5373a59bdcb967ab3f078d35e", null ],
+    [ "getUser", "classspf_1_1app_1_1demo_1_1demo.html#a766480949353e52c1260b7298d5853cc", null ],
+    [ "getView", "classspf_1_1app_1_1demo_1_1demo.html#a0b8bf4a58a055acb16f10e77c43d5d24", null ],
+    [ "init", "classspf_1_1app_1_1demo_1_1demo.html#a789dff0c7633ec7c50fbf83566bf3895", null ],
+    [ "setPostDataToSession", "classspf_1_1app_1_1demo_1_1demo.html#a9e853db2327ece136646825e4325d300", null ],
+    [ "$controller", "classspf_1_1app_1_1demo_1_1demo.html#a02b5ba6a77ffd38989ca97faba526f27", null ],
+    [ "$id", "classspf_1_1app_1_1demo_1_1demo.html#a1152a7930311634435a8fa2a465f6654", null ],
+    [ "$instance", "classspf_1_1app_1_1demo_1_1demo.html#aa061fc0f0bc634ae1bef7611c0c63245", null ],
+    [ "$model", "classspf_1_1app_1_1demo_1_1demo.html#a599b16398d22a847efc646c50f7277be", null ],
+    [ "$user", "classspf_1_1app_1_1demo_1_1demo.html#a8c08f4a567c6ec0654d72fa5af538535", null ],
+    [ "$view", "classspf_1_1app_1_1demo_1_1demo.html#a71edeefeceb0cf82021148347d434a08", null ],
+    [ "DEMO_PAGE_DASHBOARD", "classspf_1_1app_1_1demo_1_1demo.html#ad3e3c3d811cd90648bdbc63d530ade84", null ],
+    [ "DEMO_PAGE_LOGIN", "classspf_1_1app_1_1demo_1_1demo.html#ae98eee304df29af15701809b521afe3a", null ],
+    [ "DEMO_RELATIVE_DISPATCHER_DIR", "classspf_1_1app_1_1demo_1_1demo.html#a90cae52b38d5dddde6b575f3c98a36db", null ],
+    [ "DEMO_SERVICE_DISPATCHER_LOGIN", "classspf_1_1app_1_1demo_1_1demo.html#aeef4d66bdbbce6063b00b6e41113f772", null ]
+];

@@ -1,0 +1,26 @@
+var classspf_1_1view_1_1template_1_1spf_element_typograph =
+[
+    [ "__construct", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a8c9ea35a545a737616e3d8d6a7753103", null ],
+    [ "align", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#ae82088c98177ab42852d8a687d851a9a", null ],
+    [ "createHeadingElement", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#aa61ba43616c7dc7c5f1c75701a5d9340", null ],
+    [ "createParagraph", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#af12c078c9da632605fb4a90a5c89004a", null ],
+    [ "createStyledElement", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a472de3a1695a7b8f2844728e413bdfca", null ],
+    [ "SPF_TPL_TYPOGRAPH_ALIGN_CENTER", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a65cb3cf121f90b72a6c7e2dc5f2f5f38", null ],
+    [ "SPF_TPL_TYPOGRAPH_ALIGN_JUSTIFIED", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#aba3bff5b6d9e4c90b6d52e3d95d4b222", null ],
+    [ "SPF_TPL_TYPOGRAPH_ALIGN_LEFT", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a5526c45b9e628e87a4800b2d224c497b", null ],
+    [ "SPF_TPL_TYPOGRAPH_ALIGN_NOWRAP", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a4d8a59267d38b32ce009412a0b3c29c1", null ],
+    [ "SPF_TPL_TYPOGRAPH_ALIGN_RIGHT", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#acfb63d4705becd341504a8c75e975dc1", null ],
+    [ "SPF_TPL_TYPOGRAPH_HEADING_H1", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#aac3c14adf009e618c181cb3114a4ea67", null ],
+    [ "SPF_TPL_TYPOGRAPH_HEADING_H2", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#ae1be713e6feb630ab014ac62247e605e", null ],
+    [ "SPF_TPL_TYPOGRAPH_HEADING_H3", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a99e77f2872c9ccc67e0b987dcbfcaca1", null ],
+    [ "SPF_TPL_TYPOGRAPH_HEADING_H4", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a3a1d09891e55b5a84b11f31f8964793d", null ],
+    [ "SPF_TPL_TYPOGRAPH_HEADING_H5", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a120e1b4cb71f5316ce2947fa5bf4b7d8", null ],
+    [ "SPF_TPL_TYPOGRAPH_HEADING_H6", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a8f7a244757895700c8597b3240be91e7", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_BOLD", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a1203794890f5265ab2ed3bb6c98a8a55", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_DELETED", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a5bd160798674462af44caffa6fc7a8f1", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_ITALIC", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a24294f57673061a6250eb5447d233715", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_LEAD", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a6a11aa1bbe934c596215806bb5f49a9a", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_MARK", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a610abab972c892ad78d9ebdf8f0de65a", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_SMALL", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a7f4968eb01942e9325b502024820dc36", null ],
+    [ "SPF_TPL_TYPOGRAPH_STYLE_UNDERLINED", "classspf_1_1view_1_1template_1_1spf_element_typograph.html#a9cbf1b4b6a66011ec1acde171d49e199", null ]
+];
