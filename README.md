@@ -1,19 +1,34 @@
-<!doctype html>
+SPF - Spf PHP Framework                       
+=======================
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+[![licence](https://img.shields.io/static/v1?label=licence&message=Apache%202.0&color=blue)](http://www.apache.org/licenses/LICENSE-2.0)
 
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
+## What is SPF?
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+SPF is a simple PHP framework for development of MVC applications.  
+It's an open source platform offering an application architecture and a set of tool and libraries which can speed-up the application development and the time-to-market.
 
-</head>
 
-<body>
-  <h1>ciao pippo</h1>
-  <script src="js/scripts.js"></script>
-</body>
-</html>
+### Main features
+
+- MVC pattern design
+- Multi-application content and configurator
+- Routing
+- Authentication methods
+- API-driven
+- High-level database interface and query builder
+- Set of PHP libraries and facilities (PDF, Logger, Mailer, Zip, Singleton, ...)
+- Advanced template system and HTML5 generator
+- Customizable stylesheet (default and pre-builded Bootstrap)
+- Set of Javascript libraries (Crypto, DataTables, font-awesome, glyphicons, calendar, moment, jquery, pdf, qtip, chartjs, ...)
+- High-level and multi-application session management
+- Settings interface
+
+You can extend it as you want. 
+
+## Manual
+Go to [Quick start guide](https://ssilviogit.github.io/test/manual/docs/).
+Go to <a href="https://ssilviogit.github.io/test/manual/docs/" target="_blank">Documentation pages</a>.
+
+## License
+License [Aapache-2.0](http://www.apache.org/licenses/LICENSE-2.0).
